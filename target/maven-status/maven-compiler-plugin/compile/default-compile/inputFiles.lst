@@ -1,0 +1,12 @@
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/producer/HashPartitioner.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/producer/ItemProducer.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/timeextractor/OrderTimestampExtractor.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/producer/UserProducer.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/model/User.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/producer/OrderProducer.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/model/Order.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/model/Item.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/PurchaseAnalysis.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/serdes/GenericDeserializer.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/serdes/GenericSerializer.java
+/Users/yiping/Documents/KafkaExample/homeworkkafka/src/main/java/com/dataguru/kafka/stream/serdes/SerdesFactory.java
