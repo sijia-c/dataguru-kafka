@@ -73,13 +73,14 @@ public class PurchaseAnalysis {
 	
 	public static boolean checkCondition(OrderUser orderUser){
 		//within an hour
-		long transactionDate=orderUser.transactionDate;
-		System.out.println(transactionDate);
-		long currentTime=System.currentTimeMillis();
-		System.out.println(currentTime);
-		boolean withinAnHour=(currentTime-transactionDate<=3600000)?true:false;
+//		long transactionDate=orderUser.transactionDate;
+//		System.out.println(transactionDate);
+//		long currentTime=System.currentTimeMillis();
+//		System.out.println(currentTime);
+//		boolean withinAnHour=(currentTime-transactionDate<=3600000)?true:false;
 		//age
-		return (orderUser.age >= 18)&&(orderUser.age<=35)&&withinAnHour;
+		//return (orderUser.age >= 18)&&(orderUser.age<=35)&&withinAnHour;
+		return (orderUser.age >= 18)&&(orderUser.age<=35);
 	}
 	
 	public static Statistics calc(Statistics v1, Statistics v2){
